@@ -142,6 +142,15 @@ The application has been tested with different CSV datasets, including:
 
 This demonstrates that the application can perform basic profiling and analysis across different dataset structures.
 
+## 📸 Application Screenshots
+
+
+![Dataset Overview](Screenshots/Screenshot%202026-09-27%20155426.png)
+
+![Data Quality Analysis](Screenshots/Screenshot%202026-09-27%20155614.png)
+
+![Natural-Language Query](Screenshots/Screenshot%202026-09-27%20155848.png)
+
 ## 🎯 Project Purpose
 
 This project was developed to demonstrate practical experience with:
